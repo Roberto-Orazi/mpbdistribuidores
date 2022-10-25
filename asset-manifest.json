@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b303daa7.css",
+    "main.js": "/static/js/main.24416651.js",
+    "static/js/787.12a8afa3.chunk.js": "/static/js/787.12a8afa3.chunk.js",
+    "static/media/tommy.png": "/static/media/tommy.6a3037eea7df61fd0b0a.png",
+    "static/media/mujer.png": "/static/media/mujer.1e48f8aa42ed93905e86.png",
+    "static/media/humo.webp": "/static/media/humo.a487390639e93caccc6f.webp",
+    "static/media/mpb.png": "/static/media/mpb.37519d3a0bbbcda1a879.png",
+    "static/media/azul.png": "/static/media/azul.1ffe1f261ea575bcfd54.png",
+    "static/media/cigarrillo_liverpool_red_box_yenex-removebg-preview.png": "/static/media/cigarrillo_liverpool_red_box_yenex-removebg-preview.2f5789f766d0a6a22865.png",
+    "static/media/verde.png": "/static/media/verde.599ef4b9061338ad01d4.png",
+    "index.html": "/index.html",
+    "main.b303daa7.css.map": "/static/css/main.b303daa7.css.map",
+    "main.24416651.js.map": "/static/js/main.24416651.js.map",
+    "787.12a8afa3.chunk.js.map": "/static/js/787.12a8afa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b303daa7.css",
+    "static/js/main.24416651.js"
+  ]
+}
